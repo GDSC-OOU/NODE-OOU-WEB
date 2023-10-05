@@ -22,10 +22,10 @@ Click the "Fork" button at the top-right of this repository to create your own c
 
 ## Clone Your Fork
 
-Clone your forked repository to your local machine using the following command:
+Clone your forked repository to your local machine using the following command. Replace the [your username] with yours or just click on `code` by the top write corner and copy the https link:
 
 ```bash
-git clone https://github.com/AyomiCoder/NODE-OOU-WEB.git
+git clone https://github.com/[your username]/NODE-OOU-WEB.git
 ```
 
 ## Install Dependencies
